@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Product Information</title>
+		<link rel="icon" type="image/ico" href="icon.ico">
+		<link rel="stylesheet" type="text/css" href="product information.css">
+		<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+		<script type="text/javascript">
+			$(window).on('scroll', function(){
+				if ($(window).scrollTop()){
+					$('nav').addClass('black');
+				}
+				else
+				{
+					$('nav').removeClass('black');
+				}
+			})
+		</script>
+	</head>
+	
+	<body>
+		<nav>
+			<div class="logo">
+				<img src="logo.png">
+			</div>
+			<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="product information.html" class= "active">Product Info</a></li>
+				<li><a href="Product History.html">Product History</a></li>
+				<li><a href="about us.html">About Us</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+
+			</ul>
+		</nav>
+		
+		<div class = "title">
+			<h1>Project Automata</h1>
+			<h2>FEATURES &</h2>
+			<h4>BENEFITS</h4>
+		
+		<section class="sec1"></section>
+		<section class="content1">
+			<p> <br><center>Automata is a program that runs automatically after a few clicks once inserted<br>
+			in the USB port of a computer. It does not need internet connection to work. Also, no additional files are<br>
+			required to make the product performs its functions.  
+			</center></p><br>	
+		</section>
+		
+		<section class="sec2"></section>
+		<section class="content">
+			<h3>CLEANUP</h3>
+				<p id="cleanup";>Once executed by the program, it will<br><span> mainly run a third-party application</span><br><span>
+				that comes pre-installed with the flash</span><br><span>drive. Moreover, it will also execute</span><br>system commands that would target
+				<br><span>unnecessary files such as junk and<br>temporary files.</span></p>
+			<h5>PROTECTION</h5>
+				<p id="protection";>Responsible for running a low-key anti-<br>malware that comes pre-installed with the
+					<br>flash drive.This would be a basic-level <br>protection that would only target common<br>malware that users 
+					experience frequently.</p>
+			<h6>RESTORATION</h6>
+				<p id="restoration";>The function that takes the longest to<br> execute and is mainly optional. It
+					is a script of <br>system commands built-in withinthe Windows<br> 10 Operating System and restores the <br> system to its
+					former, much better and faster <br>state as much as possible or as much as the <br> system could allow.</p>
+					<p></p>
+		</section>
+
+		<section class="sec3"></section>
+		<section class="content">
+			<h7>No additional<br><span> files needed.</span></h7>
+				<p id="additional";> Automata has pre-installed third party applications<br> which saves the user a lot of time as well as protects <br>them from potential malware attacks. </p>
+				<p></p>
+		</section>
+		<section class="sec4"></section>
+		<section class="content">
+			<h8>Faster and Easier<br> Computer Maintenance</h8>
+				<p id="maintenance";> Automata allows the user to resume their work while having <br>their system optimized and brought back to its former glory. </p>
+				<p></p>
+		</section>
+		<section class="sec5"></section>
+		<section class="content">
+			<h9>Portability<br> and Simplicity</h9>
+				<p id="portability";> No user interface. Just a small storage device to<br> power up your computer.</p>
+		</section>
+		<img style="position:absolute; TOP:830px; LEFT:140px; WIDTH:180px; HEIGHT:180px" SRC="cleanup.png"> 
+		<img style="position:absolute; TOP:830px; LEFT:510px; WIDTH:180px; HEIGHT:180px" SRC="protection.png"> 
+		<img style="position:absolute; TOP:830px; LEFT:925px; WIDTH:180px; HEIGHT:180px" SRC="restoration.png"> 
+	</body>
+</html>
