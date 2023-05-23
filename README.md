@@ -8,6 +8,6 @@ This was originally developed as part of our Empowerment Technology subject back
 
 <br> 
 
-![image](https://github.com/alliyah95/project-automata/assets/74038500/540d8661-1f88-4e5a-87c0-e9a0aa688448)
-![image](https://github.com/alliyah95/project-automata/assets/74038500/c158229a-37df-4ce2-829b-da8c6f1fadbf)
-![image](https://github.com/alliyah95/project-automata/assets/74038500/db61fbb8-64d8-4065-bbe9-3efa4c629889)
+![image](https://github.com/alliyah95/project-automata/assets/74038500/2397daea-86cf-48a2-b869-b8dea0d87d4a)
+![image](https://github.com/alliyah95/project-automata/assets/74038500/c67488a4-5850-4ddd-a650-efe9682f0f2a)
+![image](https://github.com/alliyah95/project-automata/assets/74038500/f3893594-1250-4d12-9765-2ef09c6b754f)
