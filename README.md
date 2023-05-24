@@ -1,10 +1,10 @@
 <div align="center">
   
 # Project Automata
-  
+ 
+This was originally developed as part of our Empowerment Technology subject back in senior high school.
 </div>
 
-This was originally developed as part of our Empowerment Technology subject back in senior high. It was one of the things that rekindled my passion for programming and web development.
 
 <br> 
 
